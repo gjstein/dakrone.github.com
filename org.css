@@ -12,6 +12,10 @@ body {
     font-size: 90%;
 }
 
+image {
+    max-width: 1000px;
+}
+
 code {
     color: #00f;
     padding: 1px 1px 1px 1px;
